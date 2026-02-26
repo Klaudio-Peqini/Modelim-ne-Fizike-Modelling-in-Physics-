@@ -4,10 +4,12 @@
 
 Ky repository përmban materialet e plota për kursin universitar
 "Modellimi në Fizikë", i konceptuar si vazhdim numerik dhe kompjuterik i
-Mekanikës Analitike.
+Mekanikës Analitike dhe jo vetëm.
 
-Qëllimi është kalimi nga formulimi Lagrangian i sistemeve fizike tek
-implementimi numerik, analiza e stabilitetit dhe studimi i kaosit.
+Qëllimi është kalimi nga formulimi Lagranzhian i sistemeve fizike tek
+implementimi numerik, analiza e stabilitetit dhe studimi i kaosit. Synohet
+gjithashtu implementimi numerik edhe për ato sisteme dinamike ku nuk
+propozohet ndonjë Lagranzhian specifik.
 
 ------------------------------------------------------------------------
 
@@ -29,7 +31,7 @@ implementimi numerik, analiza e stabilitetit dhe studimi i kaosit.
 -   Part_5/ -- Sisteme stokastike
 -   Part_6/ -- Lagrangian Neural Networks
 -   Detyra_assignments/
--   projects/
+-   projekte_projects/
 
 ------------------------------------------------------------------------
 
@@ -46,7 +48,7 @@ Studentët do të aftësohen të:
 
 ## Qëllimi Strategjik
 
-Kursi synon të krijojë bazë për:
+Kursi synon të krijojë bazat për:
 
 -   Projekte Master dhe PhD.
 -   Integrim me HPC.
