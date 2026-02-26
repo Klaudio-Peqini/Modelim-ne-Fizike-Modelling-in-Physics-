@@ -21,8 +21,8 @@ implementimi numerik, analiza e stabilitetit dhe studimi i kaosit.
 
 ## Struktura e Repository
 
--   part0/ -- Dokumenti hyrës strategjik
--   bundle_1/ -- Sisteme dinamike klasike
+-   Part_0/ -- Dokumenti hyrës strategjik
+-   Part_1/ -- Sisteme dinamike klasike
 -   bundle_2/ -- Integratorë numerikë
 -   bundle_3/ -- Kaosi dhe Lyapunov
 -   bundle_4/ -- Bifurkacione
