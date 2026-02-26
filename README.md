@@ -1,8 +1,8 @@
-# Modellimi në Fizikë
+# Modelimi në Fizikë
 
-## Përshkrimi Akademik
+## Përshkrimi i përgjithshëm
 
-Ky repository përmban materialet e plota për kursin universitar
+Ky repo përmban materialet e plota për kursin universitar
 "Modellimi në Fizikë", i konceptuar si vazhdim numerik dhe kompjuterik i
 Mekanikës Analitike dhe jo vetëm.
 
