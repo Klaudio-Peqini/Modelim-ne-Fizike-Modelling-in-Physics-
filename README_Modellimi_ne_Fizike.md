@@ -23,7 +23,7 @@ implementimi numerik, analiza e stabilitetit dhe studimi i kaosit.
 
 -   Part_0/ -- Dokumenti hyrës strategjik
 -   Part_1/ -- Sisteme dinamike klasike
--   bundle_2/ -- Integratorë numerikë
+-   Part_2/ -- Integratorë numerikë
 -   bundle_3/ -- Kaosi dhe Lyapunov
 -   bundle_4/ -- Bifurkacione
 -   bundle_5/ -- Sisteme stokastike
