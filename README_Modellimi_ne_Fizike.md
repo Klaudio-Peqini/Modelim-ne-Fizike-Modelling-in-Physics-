@@ -24,7 +24,7 @@ implementimi numerik, analiza e stabilitetit dhe studimi i kaosit.
 -   Part_0/ -- Dokumenti hyrës strategjik
 -   Part_1/ -- Sisteme dinamike klasike
 -   Part_2/ -- Integratorë numerikë
--   bundle_3/ -- Kaosi dhe Lyapunov
+-   Part_3/ -- Kaosi dhe Lyapunov
 -   bundle_4/ -- Bifurkacione
 -   bundle_5/ -- Sisteme stokastike
 -   bundle_6/ -- Lagrangian Neural Networks
