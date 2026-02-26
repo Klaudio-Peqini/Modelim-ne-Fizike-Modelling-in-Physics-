@@ -28,8 +28,7 @@ implementimi numerik, analiza e stabilitetit dhe studimi i kaosit.
 -   Part_4/ -- Bifurkacione
 -   Part_5/ -- Sisteme stokastike
 -   Part_6/ -- Lagrangian Neural Networks
--   notebooks/
--   assignments/
+-   Detyra_assignments/
 -   projects/
 
 ------------------------------------------------------------------------
