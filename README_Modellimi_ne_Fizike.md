@@ -27,7 +27,7 @@ implementimi numerik, analiza e stabilitetit dhe studimi i kaosit.
 -   Part_3/ -- Kaosi dhe Lyapunov
 -   Part_4/ -- Bifurkacione
 -   Part_5/ -- Sisteme stokastike
--   bundle_6/ -- Lagrangian Neural Networks
+-   Part_6/ -- Lagrangian Neural Networks
 -   notebooks/
 -   assignments/
 -   projects/
