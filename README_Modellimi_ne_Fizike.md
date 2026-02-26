@@ -24,12 +24,12 @@ propozohet ndonjë Lagranzhian specifik.
 ## Struktura e Repository
 
 -   Part_0/ -- Dokumenti hyrës strategjik
--   Part_1/ -- Sisteme dinamike klasike
--   Part_2/ -- Integratorë numerikë
--   Part_3/ -- Kaosi dhe Lyapunov
--   Part_4/ -- Bifurkacione
--   Part_5/ -- Sisteme stokastike
--   Part_6/ -- Lagrangian Neural Networks
+-   Part_1/ -- Integratorë numerikë
+-   Part_2/ -- Sisteme dinamike klasike dhe ODE
+-   Part_3/ -- Sisteme lëkundëse jolineare
+-   Part_4/ -- Kaosi dhe sistemet kaotike
+-   Part_5/ -- Modele demografike, epidemike dhe trafiku
+-   Part_6/ -- Algoritme renditjeje
 -   Detyra_assignments/
 -   projekte_projects/
 
