@@ -33,8 +33,8 @@ ato sisteme dinamike ku nuk propozohet ndonjë Lagranzhian specifik.
 -   Part_4/ -- Kaosi dhe sistemet kaotike
 -   Part_5/ -- Modele demografike, epidemike dhe trafiku
 -   Part_6/ -- Algoritme renditjeje
--   Detyra_assignments/
--   projekte_projects/
+-   Detyra_Assignments/
+-   Projekte_Projects/
 
 ------------------------------------------------------------------------
 
