@@ -45,6 +45,7 @@ Studentët do të aftësohen të:
 -   Ndërtojnë modele dhe ideojnë algoritmin për të zgjidhur një problem specifik.
 -   Implementojnë metodat numerike më të përshtatëshme për zgjidhjen e një problemi.
 -   Analizojnë stabilitetin, kaosin, apo probleme të reja në mënyë efektive.
+-   Përkthejnë problemin konkret në problem algoritmike.
 -   Programojnë duke zbatuar paradigmat moderne.
 -   Organizojnë projekte kërkimore të riprodhueshme.
 -   Dokumentojnë në mënyrë profesionale punën e tyre.
