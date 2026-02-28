@@ -56,6 +56,7 @@ Studentët do të aftësohen të:
 
 Kursi synon të krijojë bazat për:
 
--   Projekte Master dhe PhD.
--   Integrim me HPC.
+-   Programim me paradigma më të avancuara në të ardhmen.
+-   Projekte të suksesshme në studimet Master dhe PhD.
+-   Integrim me metodat e zhvilluara në klasterin HPC.
 -   Publikime shkencore të ardhshme.
