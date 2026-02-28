@@ -19,7 +19,7 @@ ato sisteme dinamike ku nuk propozohet ndonjë Lagranzhian specifik.
 2.  Strukturë e bazuar në formalizmin Lagrangian.
 3.  Modelim i sistemeve të larmishëm.
 4.  Ndërtim i skematizuar i skripteve në Python (ose në gjuhë të tjera programimi sipas mundësisë personale)
-5.  
+5.  Parimet tipike të një kodi të shkruar mirë!
 6.  Riprodhueshmëri përmes Git dhe dokumentimit rigoroz.
 
 ------------------------------------------------------------------------
