@@ -42,8 +42,8 @@ ato sisteme dinamike ku nuk propozohet ndonjë Lagranzhian specifik.
 
 Studentët do të aftësohen të:
 
--   Derivojnë ekuacionet e lëvizjes nga Lagrangiani.
--   Implementojnë metoda numerike stabile.
+-   Ndërtojnë modele dhe ideojnë algoritmin për të zgjidhur një problem specifik.
+-   Implementojnë metodat numerike më të përshtatëshme për zgjidhjen e një problemi.
 -   Analizojnë stabilitetin dhe kaosin.
 -   Organizojnë projekte kërkimore të riprodhueshme.
 
