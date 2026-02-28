@@ -3,13 +3,13 @@
 ## Përshkrimi i përgjithshëm
 
 Ky repo përmban materialet e plota për kursin universitar
-"Modellimi në Fizikë", i konceptuar si vazhdim numerik dhe kompjuterik i
+"Modelimi në Fizikë", i konceptuar si vazhdim numerik dhe kompjuterik i
 Mekanikës Analitike dhe jo vetëm.
 
 Qëllimi është kalimi nga formulimi Lagranzhian i sistemeve fizike tek
-implementimi numerik, analiza e stabilitetit dhe studimi i kaosit. Synohet
-gjithashtu implementimi numerik edhe për ato sisteme dinamike ku nuk
-propozohet ndonjë Lagranzhian specifik.
+implementimi numerik, studimi i kaosit, analiza teorike e sistemeve të ndryshme
+me rëndësi parësore në Fizikë. Synohet gjithashtu implementimi numerik edhe për
+ato sisteme dinamike ku nuk propozohet ndonjë Lagranzhian specifik.
 
 ------------------------------------------------------------------------
 
