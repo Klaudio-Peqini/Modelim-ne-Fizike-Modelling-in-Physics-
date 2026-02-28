@@ -60,4 +60,5 @@ Kursi synon të krijojë bazat për:
 -   Ndërtimin e një portofoli personal projektesh.
 -   Projekte të suksesshme në studimet Master dhe PhD.
 -   Integrim me metodat e zhvilluara në klasterin HPC.
+-   Prodhimin e produkteve kërkimore-shkencore ciklet MAster dhe PhD.
 -   Publikime shkencore të ardhshme.
