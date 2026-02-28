@@ -62,4 +62,4 @@ Kursi synon të krijojë bazat për:
 -   Integrim me metodat e zhvilluara në klasterin HPC.
 -   Prodhimin e produkteve kërkimore-shkencore ciklet Master dhe PhD.
 -   Ndërtimi e produkteve të Inteligjencës Artificiale (IA) dhe zbatimin e metodve Machibe Learning (ML).
--   Publikime shkencore të ardhshme.
+-   Publikime shkencore dh epjesëmarrje në konferenca të ardhshme.
