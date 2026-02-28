@@ -44,8 +44,10 @@ Studentët do të aftësohen të:
 
 -   Ndërtojnë modele dhe ideojnë algoritmin për të zgjidhur një problem specifik.
 -   Implementojnë metodat numerike më të përshtatëshme për zgjidhjen e një problemi.
--   Analizojnë stabilitetin dhe kaosin.
+-   Analizojnë stabilitetin, kaosin, apo probleme të reja në mënyë efektive.
+-   
 -   Organizojnë projekte kërkimore të riprodhueshme.
+-   Dokumentojnë në mënyrë profesionale punën e tyre.
 
 ------------------------------------------------------------------------
 
