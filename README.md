@@ -57,6 +57,7 @@ Studentët do të aftësohen të:
 Kursi synon të krijojë bazat për:
 
 -   Programim me paradigma më të avancuara në të ardhmen.
+-   Ndërtimin e një portofoli personal projektesh.
 -   Projekte të suksesshme në studimet Master dhe PhD.
 -   Integrim me metodat e zhvilluara në klasterin HPC.
 -   Publikime shkencore të ardhshme.
