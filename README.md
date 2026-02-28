@@ -60,5 +60,6 @@ Kursi synon të krijojë bazat për:
 -   Ndërtimin e një portofoli personal projektesh.
 -   Projekte të suksesshme në studimet Master dhe PhD.
 -   Integrim me metodat e zhvilluara në klasterin HPC.
--   Prodhimin e produkteve kërkimore-shkencore ciklet MAster dhe PhD.
+-   Prodhimin e produkteve kërkimore-shkencore ciklet Master dhe PhD.
+-   Ndërtimi e produkteve të Inteligjencës Artificiale (IA) dhe zbatimin e metodve Machibe Learning (ML).
 -   Publikime shkencore të ardhshme.
